@@ -1,11 +1,23 @@
+<<<<<<< HEAD
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Portfolio
+
+> It is portfolio website in the making !!
+=======
 # youtube-trials
 
 > It is youtube page in the making !!
+>>>>>>> 9e068fb186fa852b91c6ba4016b1cf692a935718
 
 
 ## Built With
 
+<<<<<<< HEAD
+- html, css, js
+=======
 - html, css
+>>>>>>> 9e068fb186fa852b91c6ba4016b1cf692a935718
 - Linters
 
 ## Live Demo (if available)
